@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Hello World, SilentModeTimerActivity!</string>
+    <string name="app_name">SilentModeTimer</string>
+    <string name="msg_damien">Iniciar</string>
+    <string name="Silent_mode">Silent_mode</string>
+    <string name="Vibrate_mode">Vibrate_mode</string>
+    <string name="Normal_mode">Normal_mode</string>
+    
+
+</resources>
